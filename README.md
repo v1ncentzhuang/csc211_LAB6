@@ -1,2 +1,1 @@
-# csc211_LAB6
-# uri
+# cassidy0608.github.io
